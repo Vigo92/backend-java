@@ -7,7 +7,7 @@ package com.first.shapes;
  **/
 public class Rectangle extends Shapes{
 
-    //concrete
+    //concrete IMPLEMENTATION
     public int area(int length, int breadth) throws Exception {
         return length * breadth;
     }

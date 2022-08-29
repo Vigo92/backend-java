@@ -6,7 +6,7 @@ package com.first.shapes;
  * date : 15/08/2022
  **/
 public abstract class Shapes {
-      //abstract information
+      //abstract information BASE CLASS
     int length;
 
     int breadth;
